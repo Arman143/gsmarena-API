@@ -24,7 +24,6 @@
     <!-- Custom styles for this template -->
     <link href="starter-template.css" rel="stylesheet">
 </head>
-
 <body>
 
     <main role="main" class="container">
